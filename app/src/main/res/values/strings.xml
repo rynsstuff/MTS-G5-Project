@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MicroStuff</string>
+    <string name="app_title">Microstuff</string>
+    <string name="app_tagline">Solusi kelola usaha UMKM anda</string>
+    <string name="enter_store">Masuk ke Toko</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="login">Login</string>
 </resources>
