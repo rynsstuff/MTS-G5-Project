@@ -15,4 +15,11 @@
     <string name="continue_google">Lanjutkan dengan Google</string>
     <string name="no_account">Belum punya akun?</string>
     <string name="register_now">Daftar Sekarang</string>
+
+    <string name="register_title">Register</string>
+    <string name="register_subtitle">Buat akun sekarang untuk menggunakan MicroStuff</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_email_register">Email</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="register_button">Daftar</string>
 </resources>
