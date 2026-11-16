@@ -1,5 +1,6 @@
 package com.example.microstuff
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
@@ -24,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<View>(R.id.login).setOnClickListener {
-            Toast.makeText(this, "Login", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, LoginActivity::class.java))
         }
     }
 }

@@ -16,4 +16,5 @@
 
     <color name="navy">#0F1F3D</color>
     <color name="text_secondary">#4A4A55</color>
+    <color name="gray_border">#7A7A85</color>
 </resources>

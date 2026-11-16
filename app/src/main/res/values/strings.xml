@@ -5,4 +5,14 @@
     <string name="enter_store">Masuk ke Toko</string>
     <string name="already_have_account">Sudah punya akun?</string>
     <string name="login">Login</string>
+
+    <string name="login_subtitle">Masuk ke akun MicroStuff anda untuk mengelola stok &amp; transaksi tokomu hari ini.</string>
+    <string name="hint_email">Email atau Username</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Lupa Kata Sandi?</string>
+    <string name="remember_me">Simpan info login</string>
+    <string name="or_login_with">ATAU MASUK DENGAN</string>
+    <string name="continue_google">Lanjutkan dengan Google</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_now">Daftar Sekarang</string>
 </resources>
