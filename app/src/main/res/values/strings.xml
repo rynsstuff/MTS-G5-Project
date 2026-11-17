@@ -22,4 +22,13 @@
     <string name="hint_email_register">Email</string>
     <string name="hint_confirm_password">Konfirmasi Password</string>
     <string name="register_button">Daftar</string>
+
+    <string name="product_title">Daftar Produk</string>
+    <string name="product_subtitle">Kelola stok dan katalog warung anda</string>
+    <string name="add_product">Tambah</string>
+    <string name="search_hint">Cari nama produk, barcode, SKU...</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_product">Produk</string>
+    <string name="nav_cashier">kasir</string>
+    <string name="nav_report">Laporan</string>
 </resources>
